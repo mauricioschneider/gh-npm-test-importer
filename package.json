@@ -19,6 +19,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@mauricioschneider/gh-npm-test-package": "0.0.1"
+    "test": "npm:@mauricioschneider/gh-npm-test-package@0.0.1"
   }
 }

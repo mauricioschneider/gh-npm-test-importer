@@ -1,4 +1,4 @@
-import sum from "@mauricioschneider/gh-npm-test-package";
+import sum from "test";
 
 const a = 2, b = 1;
 
