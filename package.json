@@ -1,0 +1,23 @@
+{
+  "name": "gh-npm-test-importer",
+  "version": "0.0.1",
+  "description": "Test importing package with specific version from GH npm registry into Render",
+  "homepage": "https://github.com/mauricioschneider/gh-npm-test-importer#readme",
+  "bugs": {
+    "url": "https://github.com/mauricioschneider/gh-npm-test-importer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricioschneider/gh-npm-test-importer.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mauricioschneider/gh-npm-test-package": "0.0.1"
+  }
+}
